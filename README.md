@@ -8,10 +8,11 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 
 [Workshop website](https://events.humancellatlas.org/2023LA)
 
-## Bioinformatics Team
+## Bioinformatics Team (Shalek lab)
 - [Nuo "Ivy" Liu](https://nuoliu.github.io/), MIT/Broad Institute/Ragon Institute, US
-- [Sergio Triana](https://scholar.google.com/citations?hl=en&user=WxyC26MAAAAJ), Broad Institute & MIT, US
-- [Vinicius Maracaja-Coutinho](https://scholar.google.com.br/citations?user=T_dpe84AAAAJ&hl), Advanced Center for Chronic Diseases (ACCDiS), University of Chile, Chile
+- [Sergio Triana](https://scholar.google.com/citations?hl=en&user=WxyC26MAAAAJ), MIT/Broad Institute/Ragon Institute, US
+- [Son Ngoc Nguyen](https://scholar.google.com/citations?user=j828UUwAAAAJ&hl=en), MIT/Broad Institute/Ragon Institute, US
+
 
 ## Hands-On Bioinformatics Training Material
 
@@ -57,25 +58,18 @@ This comprehensive material has been a result of collaborative efforts since 202
 
 We appreciate the continuous support and feedback from participants, mentors, and institutions that have made this endeavor possible. Together, we strive to advance the understanding and application of single-cell genomics in Latin America and the Caribbean.
 
-**List of Contributors - Listed Alphabetically:**
+**List of Contributors from the Mahidol university - Listed Alphabetically:**
 
-- Adolfo Rojas
-- Benilton S. Carvalho
-- Carlos Alberto Oliveira de Biagi Júnior
-- Cesar Prada
-- Cristóvão Antunes
-- Daniela Russo
-- Erick Armingol
-- Gabriela Guimarães
-- Leandro Santos
-- Mariana Boroni
-- Orr Ashenberg
-- Patricia Severino
-- Raúl Arias-Carrasco
-- Ricardo Khouri
-- Sergio Triana
-- Vinicius Maracaja-Coutinho
-- Yesid Cuesta
+Benjamaporn Sriwilai; sbenjamaporn19@gmail.com	
+Namkhang Leeratsuwan; nleeratsuwan@gmail.com	
+Piroon Jenjaroenpun; piroon.jen@mahidol.edu 
+Punn Augsornworawat; punn.aug@mahidol.ac.th 
+Sarintip Nguantad; sarintip.ng@gmail.com	
+Sirawit Srikor; sirawitsrikor@gmail.com	
+Tantip Arigul; tantip.ari@mahidol.edu 
+Varodom Charoensawan; varodom.cha@mahidol.edu	
+Waradon Sungnak; waradon.sun@mahidol.edu	
+Yasumin Kerdsri; k.yasuminmeen@gmail.com
 
 
 ******
