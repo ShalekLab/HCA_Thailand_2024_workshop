@@ -12,6 +12,7 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 - [Nuo "Ivy" Liu](https://nuoliu.github.io/), MIT/Broad Institute/Ragon Institute, US
 - [Sergio Triana](https://scholar.google.com/citations?hl=en&user=WxyC26MAAAAJ), MIT/Broad Institute/Ragon Institute, US
 - [Son Ngoc Nguyen](https://scholar.google.com/citations?user=j828UUwAAAAJ&hl=en), MIT/Broad Institute/Ragon Institute, US
+- [Constantine N Tzouanas](https://scholar.google.com/citations?user=tsly1VQAAAAJ&hl=en), MIT/Broad Institute/Ragon Institute, US
 
 
 ## Hands-On Bioinformatics Training Material
