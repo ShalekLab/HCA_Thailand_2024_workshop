@@ -6,7 +6,7 @@ Single-cell sequencing technologies are powerful tools used to assess genomic, t
 
 The establishment of collaborative scientific endeavors like the [Human Cell Atlas](https://www.humancellatlas.org/) is a testament to the surging enthusiasm and curiosity in this domain. Yet, when we look towards Latin America, we find a gap in the necessary infrastructure, financial support, and subject matter expertise required to harness these cutting-edge technologies. Recognizing this, our workshop is designed to bridge this gap. We provide participants with hands-on experience in the laboratory and in-depth bioinformatics training, ensuring that the region advances in its capabilities with single-cell methodologies.
 
-[Workshop website](https://events.humancellatlas.org/2023LA)
+[Workshop website](https://events.humancellatlas.org/hca_asiaws2024/home)
 
 ## Bioinformatics Team (Shalek lab)
 - [Nuo "Ivy" Liu](https://nuoliu.github.io/), MIT/Broad Institute/Ragon Institute, US
