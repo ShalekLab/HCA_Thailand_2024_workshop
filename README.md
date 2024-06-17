@@ -22,6 +22,9 @@ Below, you will find the links to the pre-course videos and Google Colab noteboo
 ### Practical Modules with Google Colab Notebooks:
 
 Coming soon!
+- [Notebook 01 - Processing raw scRNA-seq data](https://colab.research.google.com/github/ShalekLab/HCA_Thailand_2024_workshop/blob/main/notebooks/Notebook_A_Processing_RawSeqs_CellRanger.ipynb):
+_Processing raw single-cell sequencing data (scRNA-seq) is a crucial step in the whole pipeline analysis of scRNA-Seq experiments. Depending on the library preparation method used, the RNA sequences will be acquired either from 3’ ends (or 5’ ends) of the transcripts (10X Genomics, CEL-seq2, Drop-seq, inDrops) or from full-length transcripts (Smart-seq). The choice of a specific method will depend entirely on the biological question and the downstream analysis to be implemented from a count matrix. In this notebook we will cover theoretical and practical steps in setting up from raw sequences (reads)to count matrix analysis pipelines, as well as explore the basic output of the Cell Ranger tool._
+[**Lecture: Preprocessing**](lectures/Module 1 - preprocessing.pptx).
 
 
 ### Authorship and Acknowledgments:
