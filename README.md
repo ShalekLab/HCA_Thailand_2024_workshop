@@ -14,6 +14,9 @@ The establishment of collaborative scientific endeavors like the [Human Cell Atl
 - [Son Ngoc Nguyen](https://scholar.google.com/citations?user=j828UUwAAAAJ&hl=en), MIT/Broad Institute/Ragon Institute, US
 - [Constantine N Tzouanas](https://scholar.google.com/citations?user=tsly1VQAAAAJ&hl=en), MIT/Broad Institute/Ragon Institute, US
 
+## Introductory slide by Professor Alex Shalek
+- [Practical_for_participants](https://docs.google.com/presentation/d/1I-UutDcNhawt584zM1KrLGelXGyWsu2w/edit?usp=sharing&ouid=111891412756444731558&rtpof=true&sd=true)
+- [Introduction to single cell genomics](https://docs.google.com/presentation/d/1P-WpnqoHbaEwUtmmP2QiAPI0PjBDNac2/edit?usp=drive_link&ouid=111891412756444731558&rtpof=true&sd=true)
 
 ## Hands-On Bioinformatics Training Material
 
